@@ -1,7 +1,7 @@
 # Code depository
 
 Code for the figures and the sequencing data processing of the manuscript:
-Ogg1 regulates context-dependent glial states in Alzheimer's disease
+**Ogg1 regulates context-dependent glial states in Alzheimer's disease**
 (bioRxiv preprint: https://www.biorxiv.org/content/10.64898/2026.11.06.764857v1).
 
 ## Contributors
