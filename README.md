@@ -8,7 +8,8 @@ Code for the figures and the sequencing data processing of the manuscript
 - Andreas Abentung (andreas.abentung@ahus.no), Department of Pathology,
   Akershus University Hospital, Lørenskog, Norway: figure scripts in the
   folders below
-- Teri Sakshaug (teri.sakshaug@ntnu.no), NTNU: bulk RNA-seq and ATAC-seq data
+- Teri Sakshaug (teri.sakshaug@ntnu.no), Department of Neuromedicine and Movement Science,
+  Norwegian University of Science and Technology (NTNU), Trondheim, Norway: bulk RNA-seq and ATAC-seq data
   processing (`Data processing/`) and the prevDEG / prevDAR correlation plots
   (Fig. 1i, 4g, 5d, 5j and Suppl. Fig. 5f)
 
