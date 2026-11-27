@@ -1,4 +1,4 @@
-# R scripts for figures
+# Code depository
 
 Code for the figures and the sequencing data processing of the manuscript:
 Ogg1 regulates context-dependent glial states in Alzheimer's disease
